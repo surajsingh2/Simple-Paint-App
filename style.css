@@ -1,0 +1,22 @@
+h1 {
+    font-family: cursive;
+    text-align: center;
+    padding-top: 40px;
+    padding-left: 10px; 
+}
+button {
+    font-size: 30px;
+    font-family: cursive;
+    width: 200px;
+    padding: 32px 24px;
+
+    border-style: double;
+    background-color: #008cba;
+}
+#canvas {
+    margin-left: 20%;
+    margin-top: 2%;
+    align-self: auto;
+    border: 16px solid black;
+    border-style: double;
+}
