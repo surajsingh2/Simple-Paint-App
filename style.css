@@ -1,7 +1,6 @@
 h1 {
     font-family: cursive;
     text-align: center;
-    padding-top: 40px;
     padding-left: 10px; 
 }
 button {
@@ -14,7 +13,6 @@ button {
 }
 #canvas {
     margin-left: 20%;
-    margin-top: 2%;
     align-self: auto;
     border: 16px solid black;
     border-style: double;
